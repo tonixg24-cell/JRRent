@@ -179,7 +179,7 @@ const TerminosYCondiciones = () => {
     },
     {
       id: 9,
-      title: "Responsabilidad de VEHÍCULOS AM",
+      title: "Responsabilidad de J.R Rent",
       content: (
         <>
           <p className="mb-2 text-gray-700">
