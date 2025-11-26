@@ -39,7 +39,7 @@ const AvisoLegalPage = () => {
           <ul className="list-disc list-outside ml-5 space-y-2 text-gray-700">
             <li>Realizar actividades ilícitas, fraudulentas o contrarias a la buena fe y al orden público.</li>
             <li>Difundir contenidos o propaganda de carácter racista, xenófobo, pornográfico, violento o atentatorio contra los derechos humanos.</li>
-            <li>Provocar daños en los sistemas físicos o lógicos de VEHÍCULOS AM, de sus proveedores o de terceros.</li>
+            <li>Provocar daños en los sistemas físicos o lógicos de J.R Rent, de sus proveedores o de terceros.</li>
             <li>Introducir o difundir virus informáticos o cualquier otro sistema físico o lógico que sea susceptible de provocar daños.</li>
           </ul>
           <p className="text-gray-700 leading-relaxed pt-2">
