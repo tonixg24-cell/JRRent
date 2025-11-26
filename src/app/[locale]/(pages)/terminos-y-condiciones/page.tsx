@@ -77,7 +77,7 @@ const TerminosYCondiciones = () => {
       content: (
         <div className="space-y-2 text-gray-700">
           <p>
-            A través de esta página web, <strong className="font-semibold">VEHÍCULOS AM</strong> ofrece servicios de alquiler de coches y furgonetas sin conductor, disponibles para particulares y empresas.
+            A través de esta página web, <strong className="font-semibold">J.R Rent</strong> ofrece servicios de alquiler de coches y furgonetas sin conductor, disponibles para particulares y empresas.
           </p>
           <p>
             El uso del sitio web y la realización de una reserva implican la aceptación plena de los presentes Términos y Condiciones.
@@ -110,7 +110,7 @@ const TerminosYCondiciones = () => {
             Los precios mostrados incluyen IVA y seguros obligatorios (ver condiciones específicas del seguro al momento de la reserva).
           </li>
           <li>
-            VEHÍCULOS AM se reserva el derecho de rechazar o cancelar reservas en caso de errores evidentes en precios o disponibilidad.
+            J.R Rent se reserva el derecho de rechazar o cancelar reservas en caso de errores evidentes en precios o disponibilidad.
           </li>
         </ul>
       ),
@@ -158,7 +158,7 @@ const TerminosYCondiciones = () => {
             Los retrasos en la devolución podrán generar cargos adicionales.
           </li>
           <li>
-            VEHÍCULOS AM podrá rescindir el contrato en caso de incumplimiento grave por parte del cliente.
+            J.R Rent podrá rescindir el contrato en caso de incumplimiento grave por parte del cliente.
           </li>
         </ul>
       ),
@@ -183,7 +183,7 @@ const TerminosYCondiciones = () => {
       content: (
         <>
           <p className="mb-2 text-gray-700">
-            VEHÍCULOS AM se compromete a mantener sus vehículos en condiciones óptimas de uso y seguridad.
+            J.R Rent se compromete a mantener sus vehículos en condiciones óptimas de uso y seguridad.
           </p>
           <p className="mb-2 text-gray-700">
             No obstante, no será responsable de:
@@ -202,7 +202,7 @@ const TerminosYCondiciones = () => {
         <ul className="list-disc list-outside ml-5 space-y-2 text-gray-700">
           <li>El usuario se compromete a hacer un uso lícito, diligente y responsable del sitio web.</li>
           <li>Está prohibido el uso fraudulento, la recolección de datos de otros usuarios o el acceso no autorizado a áreas restringidas.</li>
-          <li>VEHÍCULOS AM no se hace responsable de posibles errores técnicos o interrupciones temporales del servicio web.</li>
+          <li>J.R Rent no se hace responsable de posibles errores técnicos o interrupciones temporales del servicio web.</li>
         </ul>
       ),
     },
@@ -211,7 +211,7 @@ const TerminosYCondiciones = () => {
       title: "Propiedad intelectual",
       content: (
         <p className="text-gray-700">
-          Todos los contenidos del sitio (textos, imágenes, logotipos, marcas, etc.) son propiedad de VEHÍCULOS AM o de sus legítimos titulares, y están protegidos por la legislación de propiedad intelectual e industrial.
+          Todos los contenidos del sitio (textos, imágenes, logotipos, marcas, etc.) son propiedad de J.R Rent o de sus legítimos titulares, y están protegidos por la legislación de propiedad intelectual e industrial.
         </p>
       ),
     },
@@ -221,7 +221,7 @@ const TerminosYCondiciones = () => {
       content: (
         <div className="space-y-2 text-gray-700">
           <p>
-            VEHÍCULOS AM cumple con el Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 (LOPDGDD).
+            J.R Rent cumple con el Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 (LOPDGDD).
           </p>
           <ul className="list-disc list-outside ml-5 space-y-2">
             <li>
@@ -267,7 +267,7 @@ const TerminosYCondiciones = () => {
             DE USO Y ALQUILER
           </p>
           <p className="mt-2 text-sm text-gray-400">
-            VEHÍCULOS AM – Barcelona (España)
+            J.R Rent – Barcelona (España)
           </p>
         </div>
 
