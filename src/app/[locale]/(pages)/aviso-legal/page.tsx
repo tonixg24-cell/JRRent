@@ -10,7 +10,7 @@ interface CompanyData {
 
 // Datos de contacto de la empresa (usamos los mismos para coherencia)
 const companyData: CompanyData = {
-  titular: "VEHÍCULOS AM",
+  titular: "J.R Rent",
   domicilio: "calle llobregat 74, hospitalet",
   cif: "55164060D",
   email: "juansan945@gmail.com",
