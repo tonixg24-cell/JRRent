@@ -130,7 +130,7 @@ const AvisoLegalPage = () => {
           <div className="space-y-2 text-gray-700">
             <p className="text-sm italic">En cumplimiento de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico (LSSI-CE):</p>
             <ul className="list-disc list-inside ml-4 space-y-1">
-              <li><strong className="font-semibold">Titular:</strong> {companyData.titular}</li>
+              <li><strong className="font-semibold">Titular:</strong> Juan Ramon Sanchez Mereles</li>
               <li><strong className="font-semibold">NIF/CIF:</strong> {companyData.cif}</li>
               <li><strong className="font-semibold">Domicilio:</strong> {companyData.domicilio}</li>
               <li><strong className="font-semibold">Correo electrónico:</strong> <a href={`mailto:${companyData.email}`} className="text-indigo-600 hover:text-indigo-800 underline transition duration-150">{companyData.email}</a></li>
