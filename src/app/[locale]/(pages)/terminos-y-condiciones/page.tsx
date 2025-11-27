@@ -52,7 +52,7 @@ const TerminosYCondiciones = () => {
       content: (
         <div className="space-y-2 text-gray-700">
           <p>
-            El presente sitio web es titularidad de <strong className="font-semibold">{companyData.titular}</strong>, con domicilio en <strong className="font-semibold">{companyData.domicilio}</strong>.
+            El presente sitio web es titularidad de <strong className="font-semibold">Juan Ramon Sanchez Mereles</strong>, con domicilio en <strong className="font-semibold">{companyData.domicilio}</strong>.
           </p>
           <ul className="list-disc list-inside ml-4 space-y-1">
             <li>
